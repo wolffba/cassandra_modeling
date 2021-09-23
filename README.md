@@ -1,5 +1,5 @@
 # cassandra_modeling
-This project is an example of how to create an ETL pipeline using Python and Apache Cassandra. This involved transferring from a set of raw CSV user files within a directory to make a new modified CSV file to create Apache Cassandra tables. A few example queries were made after creating Cassandra tables.
+This project is an example of how to create an ETL pipeline using Python and Apache Cassandra. This code was developed while taking the Udacity nanodegree, "Data Engineering". This involved transferring from a set of raw CSV user files within a directory to make a new modified CSV file to create Apache Cassandra tables. A few example queries were made after creating Cassandra tables.
 The data used for this project came from the "Million Song Dataset" along with an event similator (see github page for a description: https://github.com/Interana/eventsim) 
 
 Files:
